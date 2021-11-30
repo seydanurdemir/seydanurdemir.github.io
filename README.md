@@ -1,2 +1,1 @@
-# seydanurdemir.github.io
-Site for My Public Github Page
+# [seydanurdemir.github.io](https://seydanurdemir.github.io/)
